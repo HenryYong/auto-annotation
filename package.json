@@ -1,6 +1,6 @@
 {
   "name": "auto-annotation",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Insert annotation automatically",
   "main": "index.js",
   "scripts": {
@@ -23,10 +23,8 @@
     "url": "https://github.com/HenryYong/auto-annotation/issues"
   },
   "homepage": "https://github.com/HenryYong/auto-annotation#readme",
-  "devDependencies": {
-    "yargs": "^9.0.1"
-  },
   "dependencies": {
-    "ora": "^1.3.0"
+    "ora": "^1.3.0",
+    "yargs": "^9.0.1"
   }
 }
